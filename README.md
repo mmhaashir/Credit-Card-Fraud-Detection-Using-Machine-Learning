@@ -54,13 +54,8 @@ Once the model is trained and evaluated, it can be deployed into a production en
 
 2. Install the required dependencies:
 
-```
-pip install numpy
-pip install pandas
-pip install seaborn
-pip install imblearn
-pip install random
-pip install matplotlib
-``` 
+`
+pip install numpy pandas seaborn imblearn random matplotlib
+` 
 
 3. Run the `Credit_Card_Fraud_Detection.ipynb` file
