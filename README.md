@@ -7,20 +7,20 @@ This project focuses on utilizing machine learning techniques to detect fraudule
 - [**Introduction**](#introduction)
 - [**Data**](#data)
 - [**Model Building**](#model-building)
-- [Evaluation](#evaluation)
+- [**Evaluation**](#evaluation)
 - [**Deployment**](#deployment)
 - [**Usage**](#usage)
 
-## Introduction {#introduction}
+## Introduction{#introduction}
 
 Credit card fraud detection involves the use of advanced data analysis and machine learning techniques to identify transactions that are likely to be fraudulent. This project showcases how machine learning models can be trained on historical credit card transaction data to learn patterns of fraudulent activities and make predictions on new transactions.
 
-## Data {#data}
+## Data{#data}
 Link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 The project uses a dataset containing credit card transactions. The dataset includes a mixture of genuine and fraudulent transactions, making it suitable for training and evaluating machine learning models.
 
-## Model Building {#model-building}
+## Model Building{#model-building}
 
 The project employs the following machine learning algorithms to build a fraud detection model:
 
@@ -33,7 +33,7 @@ Feature engineering, data preprocessing, and model tuning are performed to optim
 
 **SMOTE** is used to handle imbalanced data and generate more synthetic training examples for better fit of the model.
 
-## Evaluation {#evaluation}
+## Evaluation{#evaluation}
 
 Following metrics are used to evalue the performance of each of the aforementioned technique in this project:
 
@@ -42,11 +42,11 @@ Following metrics are used to evalue the performance of each of the aforemention
 - Accuracy
 - Confusion Matrix
 
-## Deployment {#deployment}
+## Deployment{#deployment}
 
 Once the model is trained and evaluated, it can be deployed into a production environment. This can involve integrating the model into existing fraud detection systems used by financial institutions.
 
-## Usage {#usage}
+## Usage{#usage}
 
 1. Clone this repository:
 
