@@ -7,7 +7,7 @@ This project focuses on utilizing machine learning techniques to detect fraudule
 - [**Introduction**](#introduction)
 - [**Data**](#data)
 - [**Model Building**](#model-building)
-- [**Evaluation**](#evaluation)
+- [Evaluation](#evaluation)
 - [**Deployment**](#deployment)
 - [**Usage**](#usage)
 
