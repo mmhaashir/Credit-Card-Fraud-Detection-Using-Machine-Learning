@@ -49,11 +49,11 @@ Once the model is trained and evaluated, it can be deployed into a production en
 ## Usage
 
 1. Clone this repository:
+   
+   `git clone https://github.com/mmhaashir/credit-card-fraud-detection.git`
 
-  `git clone https://github.com/mmhaashir/credit-card-fraud-detection.git`
-
-2. Install the required dependencies:
-
-  `pip install numpy pandas seaborn imblearn random matplotlib` 
+3. Install the required dependencies:
+   
+   `pip install numpy pandas seaborn imblearn random matplotlib` 
 
 3. Run the `Credit_Card_Fraud_Detection.ipynb` file
