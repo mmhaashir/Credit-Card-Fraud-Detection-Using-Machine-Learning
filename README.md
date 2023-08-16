@@ -5,11 +5,11 @@ This project focuses on utilizing machine learning techniques to detect fraudule
 ## Table of Contents
 
 - [**Introduction**](#introduction)
-- **Data**(#data)
-- **Model Building**(#model-building)
-- **Evaluation**(#evaluation)
-- **Deployment**(#deployment)
-- **Usage**(#usage)
+- [**Data**](#data)
+- [**Model Building**](#model-building)
+- [**Evaluation**](#evaluation)
+- [**Deployment**](#deployment)
+- [**Usage**](#usage)
 
 ## Introduction {#introduction}
 
